@@ -1,7 +1,7 @@
 ---
-title: "Present a great story for data science projects"
-subtitle: "This is a Slide Template"
-author: "Students names (Advisor: Dr. Cohen)"
+title: "Quantile Regression Analysis of Demographic, Socioeconomic, and School Level Predictors of Algebra 1 End of Course Achievement in Florida High Schools."
+subtitle: "IDC 6940 Capstone Project, Summer 2026"
+author: "Jegg Ononiewu, Wendy Matende, Madison Edwards"
 date: '`r Sys.Date()`'
 format:
   revealjs
