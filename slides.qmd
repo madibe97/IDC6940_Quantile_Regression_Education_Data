@@ -31,15 +31,21 @@ More information about `revealjs`:
 
 ## Introduction  {.smaller}
 
--   Develop a storyline that captures attention and maintains interest.
+1.1 Background of the Study
+Mathematics achievement in high schools remains an important issue in educational policy, accountability systems, and school improvement efforts across the United States. In Florida, the Algebra 1 End-of-Course (EOC) exam plays a significant role because it is both a graduation requirement and a measure of student readiness for advanced mathematics courses. Previous studies have shown that factors such as socioeconomic status, ethnicity, school size, absenteeism, and family background can influence mathematics achievement. However, many traditional studies use ordinary least squares regression, which focuses only on average student performance and may overlook differences between low-performing and high-performing students.
+Recent educational research has increasingly used Quantile Regression to examine how predictors affect different parts of the achievement distribution. Studies by Han and Whitacre (2016), Pani and Kishore (2016), Tian (2008), and Haile and Nguyen (2008) demonstrated that factors such as school size, absenteeism, ethnicity, and family background can have different effects depending on student performance levels. Despite this growing body of research, few studies have applied Quantile Regression to Florida mathematics achievement data, particularly Algebra 1 EOC outcomes.
+This study addresses that gap by examining how demographic, socioeconomic, and school-level factors influence Algebra 1 EOC achievement across multiple achievement quantiles in Florida high schools. By using Quantile Regression, this research moves beyond average effects to better understand how these predictors impact struggling students differently from higher-achieving students. The findings may help educators, policymakers, and school leaders develop more targeted interventions and improve educational equity in mathematics achievement across Florida.
 
--   Your audience is your peers
+1.2 Problem Statement
+Mathematics achievement in Florida high schools continues to be an important issue in education, especially regarding student performance on the Algebra 1 End-of-Course (EOC) exam. The Algebra 1 EOC is a high-stakes test that is required for high school graduation and is often used to measure student readiness for higher-level mathematics courses. Previous studies have shown that factors such as socioeconomic status, ethnicity, attendance, family background, and school characteristics can influence mathematics achievement. However, many of these studies use traditional regression methods that mainly focus on average student performance and may overlook differences between low-performing and high-performing students.
+In addition, while researchers have studied Florida Algebra 1 EOC achievement and used Quantile Regression in educational research separately, limited research has combined both areas together. This creates a gap in the literature because demographic, socioeconomic, and school-level factors may affect students differently depending on their achievement level. Without understanding these differences, schools and policymakers may have difficulty developing effective intervention strategies to improve mathematics achievement for all students.
+Therefore, the purpose of this study is to use Quantile Regression to examine how demographic, socioeconomic, and school-level predictors influence Algebra 1 EOC achievement across different performance levels among Florida high school students.
 
--   Clearly state the problem or question you're addressing.
+1.3 Purpose of the Study
+1.4 Research Questions
+1.5 Significance of the Study
+1.6 Definition of Terms
 
--   Introduce why it is relevant needs.
-
--   Provide an overview of your approach.
 
 In kernel estimator, weight function is known as kernel function
 [@efr2008]. Cite this paper [@bro2014principal]. The GEE [@wang2014].
